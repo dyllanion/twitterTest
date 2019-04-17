@@ -57,7 +57,7 @@ function renderChart(data, labels, title) {
 							var qry = labels[array[0]._index].replace("#", "%23");
 							qry = qry.replace(" ", "+");
 							$.ajax({
-								url: "http://127.0.0.1:8080/api/search/" + qry,
+								url: "https://live-test-tweet.herokuapp.com/api/search/" + qry,
 								success: function (result) {
 									for (var i = 0; i < 4; i++) {
 										var noodle = document.getElementById('tweet' + (i + 1));
