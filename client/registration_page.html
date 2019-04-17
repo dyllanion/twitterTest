@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Twitter Analytics</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="images/tweety.png"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="styles/login.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<!--===============================================================================================-->
+</head>
+<body ng-app="TwitterApp">
+	<div class="signupgeneral" ng-controller="registration_controller">
+		<div class="container-signup" style="background-image: url('images/forest.jpg');">
+			<div class="wrap-signup">
+				<form class="signup-form validate-form"  id="form" onsubmit="event.preventDefault();">
+					<span class="signup-form-logo">
+						<i class="fab fa-twitter"></i>
+					</span>
+
+					<span class="signup-form-title p-b-34 p-t-27">
+            Sign Up
+					</span>
+
+					<div class="wrap-input100 validate-input" data-validate = "Enter username">
+						<input class="input100" type="text" id="email" name="email" placeholder="Email" ng-model="email">
+						<span class="focus-input100" data-placeholder="&#xf207;"></span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate="Enter password">
+						<input class="input100" id="password" type="password" name="password" placeholder="Password" ng-model="password">
+						<span class="focus-input100" data-placeholder="&#xf191;"></span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate="Enter password">
+						<input class="input100" id="passwordConf" type="passwordConf" name="passwordConf" placeholder="Confirm Password" ng-model="passwordConf">
+						<span class="focus-input100" data-placeholder="&#xf191;"></span>
+					</div>
+
+					<div class="container-signup-btn" >
+						<button class="signup-btn" ng-click="postdata(email,password,passwordConf)" onclick"window.location.href='index.html'">
+							Sign Up
+						</button>
+					</div>
+
+					<div>
+					<button class="signup-btn-login-page" onclick="window.location.href='index.html'">
+						Already have an account? Click here
+					</button>
+				</div>
+
+				</form>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="dropDownSelect1"></div>
+
+<!--===============================================================================================-->
+	<script src="js/jquery-3.2.1.min.js"></script>
+	<script src="https://code.angularjs.org/1.4.3/angular.js"></script>
+	<script src="js/app.js"></script>
+<!--===============================================================================================-->
+	<script src="js/registration_controller.js"></script>
+
+
+</body>
+</html>

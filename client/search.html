@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compati5tble" content="IE=edge">
+    <title>Dashboard</title>
+    <link rel="icon" type="image/png" href="images/tweety.png"/>
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Our Custom CSS -->
+    <link rel="stylesheet" href="styles/main.css">
+
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+    <script src="js/dragdrop.js"></script>
+</head>
+
+
+<body>
+    <div class="wrapper">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h3>Twitter Analytics</h3>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li>
+                    <a href="/dashboard.html">Search by Location</a>
+                </li>
+				<li class="active">
+					<a href="/search.html">Search by Query</a>
+				</li>
+                <li>
+                    <a href="/user_page_v1.html">Users</a>
+                </li>
+            </ul>
+
+            <ul class="list-unstyled CTAs">
+                <li>
+                    <a href="https://goboard-analytics.herokuapp.com/api/logout" class="article">Signout</a>
+                </li>
+            </ul>
+        </nav>
+
+        <!-- Page Content  -->
+        <div id="content">
+
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+
+                    <button type="button" id="sidebarCollapse" class="btn btn-info">
+                        <i class="fas fa-align-left"></i>
+                        <span></span>
+                    </button>
+                </div>
+            </nav>
+			<div id="centerDiv">
+				<input id="userIn" class="searchInput" style="width:70%" type="text" placeholder=" Search keyword or hashtag!">
+				<select id="relevancy" style="font-size:16px;margin-top:5px;height:30px;">
+					<option value="popular">Popular</option>
+					<option value="recent">Recent</option>
+				</select>
+				<button id="renderBtn" class="equalBtn">Search</button>
+			</div>
+
+            <div id="display" class="bg-light" ondragstart="drag(event)" ondragover="enableDrop(event)" ondrop="drop(event)">
+				<canvas id="bar-chart1" width="600" height="600" class="item" draggable="true"></canvas>
+				<canvas id="bar-chart2" width="600" height="600" class="item" draggable="true"></canvas>
+				<canvas id="bar-chart3" width="600" height="600" class="item" draggable="true"></canvas>
+            </div>
+            <div class="container">
+                <canvas id="bar-chart"></canvas>
+            </div>
+        </div>
+        
+    </div>
+
+    <!-- jQuery CDN -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+            });
+        });
+    </script>
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="js/twitter.js"></script>
+<script sync src="https://platform.twitter.com/widgets.js"></script>
+<script>
+	const dataHandle = require('js/twitterHandle.js');
+
+</html>

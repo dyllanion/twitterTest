@@ -1,0 +1,2214 @@
+{
+  "statuses": [
+    {
+      "created_at": "Wed Apr 17 00:17:58 +0000 2019",
+      "id": 1118307577404829700,
+      "id_str": "1118307577404829696",
+      "text": "Doors are open here at our early campus screening of #Homecoming, a film by Beyoncé, which debuts on @Netflix tomor… https://t.co/gK9PkAPcmt",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              53,
+              64
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "netflix",
+            "name": "Netflix US",
+            "id": 16573941,
+            "id_str": "16573941",
+            "indices": [
+              101,
+              109
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gK9PkAPcmt",
+            "expanded_url": "https://twitter.com/i/web/status/1118307577404829696",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27147528,
+        "id_str": "27147528",
+        "name": "Howard University",
+        "screen_name": "HowardU",
+        "location": "Washington, DC",
+        "description": "Howard University is a research intensive, culturally diverse, historically black university founded in 1867 #HowardU • #HUBison • @HowardUNews • @HowardUAlumni",
+        "url": "https://t.co/LNzRUVrNO3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LNzRUVrNO3",
+                "expanded_url": "http://www.howard.edu",
+                "display_url": "howard.edu",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 74184,
+        "friends_count": 971,
+        "listed_count": 943,
+        "created_at": "Sat Mar 28 01:21:30 +0000 2009",
+        "favourites_count": 9554,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 21209,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27147528/1551471954",
+        "profile_link_color": "0009B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "0009B3",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "07d9ecd6f2487000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ecd6f2487000.json",
+        "place_type": "poi",
+        "name": "Howard University - Cramton Auditorium",
+        "full_name": "Howard University - Cramton Auditorium",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 683,
+      "favorite_count": 2472,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 17 05:50:19 +0000 2019",
+      "id": 1118391217044246500,
+      "id_str": "1118391217044246528",
+      "text": "@beyonce’s #Homecoming documentary airs 🚨TONIGHT🚨 on @Netflix at 12am PST featuring her iconic 2018 @Coachella perf… https://t.co/5xlffFEdnq",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              11,
+              22
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Beyonce",
+            "name": "BEYONCÉ",
+            "id": 31239408,
+            "id_str": "31239408",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "netflix",
+            "name": "Netflix US",
+            "id": 16573941,
+            "id_str": "16573941",
+            "indices": [
+              53,
+              61
+            ]
+          },
+          {
+            "screen_name": "coachella",
+            "name": "Coachella",
+            "id": 688583,
+            "id_str": "688583",
+            "indices": [
+              100,
+              110
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5xlffFEdnq",
+            "expanded_url": "https://twitter.com/i/web/status/1118391217044246528",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 31239408,
+      "in_reply_to_user_id_str": "31239408",
+      "in_reply_to_screen_name": "Beyonce",
+      "user": {
+        "id": 500002434,
+        "id_str": "500002434",
+        "name": "The Jacksons",
+        "screen_name": "Jacksons",
+        "location": "USA",
+        "description": "First Family of Music and Rock & Roll Hall of Famers.",
+        "url": "https://t.co/Bos2aVzr8K",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Bos2aVzr8K",
+                "expanded_url": "http://www.thejacksons.live",
+                "display_url": "thejacksons.live",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 106671,
+        "friends_count": 306,
+        "listed_count": 394,
+        "created_at": "Wed Feb 22 18:08:57 +0000 2012",
+        "favourites_count": 894,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 1887,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075872023329427456/qEFJh0l-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075872023329427456/qEFJh0l-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/500002434/1547155354",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 225,
+      "favorite_count": 460,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 17 00:13:39 +0000 2019",
+      "id": 1118306493210800100,
+      "id_str": "1118306493210800129",
+      "text": "Junior Korey Foster, @issakkors, adds to the excitement here at Cramton Auditorium as our scholars stand in line fo… https://t.co/jLR68siZGb",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jLR68siZGb",
+            "expanded_url": "https://twitter.com/i/web/status/1118306493210800129",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27147528,
+        "id_str": "27147528",
+        "name": "Howard University",
+        "screen_name": "HowardU",
+        "location": "Washington, DC",
+        "description": "Howard University is a research intensive, culturally diverse, historically black university founded in 1867 #HowardU • #HUBison • @HowardUNews • @HowardUAlumni",
+        "url": "https://t.co/LNzRUVrNO3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LNzRUVrNO3",
+                "expanded_url": "http://www.howard.edu",
+                "display_url": "howard.edu",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 74184,
+        "friends_count": 971,
+        "listed_count": 943,
+        "created_at": "Sat Mar 28 01:21:30 +0000 2009",
+        "favourites_count": 9554,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 21209,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27147528/1551471954",
+        "profile_link_color": "0009B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "0009B3",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "07d9ecd6f2487000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ecd6f2487000.json",
+        "place_type": "poi",
+        "name": "Howard University - Cramton Auditorium",
+        "full_name": "Howard University - Cramton Auditorium",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 103,
+      "favorite_count": 296,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 17 06:18:48 +0000 2019",
+      "id": 1118398385357193200,
+      "id_str": "1118398385357193216",
+      "text": "Aqui aguardando o #Homecoming da @beyonce na Netflix",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              18,
+              29
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Beyonce",
+            "name": "BEYONCÉ",
+            "id": 31239408,
+            "id_str": "31239408",
+            "indices": [
+              33,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "popular"
+      },
+      "source": "<a href=\"http://www.echofon.com\" rel=\"nofollow\">Echofon for Android PRO</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 15292534,
+        "id_str": "15292534",
+        "name": "Hugo Gloss",
+        "screen_name": "HugoGloss",
+        "location": "Brazil",
+        "description": "Brazilian Entertainment Website. In Beyoncé we trust! SNAPCHAT: HUGOGLOSS",
+        "url": "https://t.co/3Ss1wdtnpW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3Ss1wdtnpW",
+                "expanded_url": "http://www.hugogloss.com",
+                "display_url": "hugogloss.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2283110,
+        "friends_count": 3866,
+        "listed_count": 9177,
+        "created_at": "Tue Jul 01 22:17:25 +0000 2008",
+        "favourites_count": 1671,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 11795,
+        "lang": "pt",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/615327232303697921/-DvN5vti_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/615327232303697921/-DvN5vti_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15292534/1552515099",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 67,
+      "favorite_count": 250,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Wed Apr 17 00:00:47 +0000 2019",
+      "id": 1118303252464963600,
+      "id_str": "1118303252464963587",
+      "text": "The line is lit as we anticipate the doors opening for our exclusive, early campus @Netflix screening of… https://t.co/6yT0nhQz1y",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "netflix",
+            "name": "Netflix US",
+            "id": 16573941,
+            "id_str": "16573941",
+            "indices": [
+              83,
+              91
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6yT0nhQz1y",
+            "expanded_url": "https://twitter.com/i/web/status/1118303252464963587",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27147528,
+        "id_str": "27147528",
+        "name": "Howard University",
+        "screen_name": "HowardU",
+        "location": "Washington, DC",
+        "description": "Howard University is a research intensive, culturally diverse, historically black university founded in 1867 #HowardU • #HUBison • @HowardUNews • @HowardUAlumni",
+        "url": "https://t.co/LNzRUVrNO3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LNzRUVrNO3",
+                "expanded_url": "http://www.howard.edu",
+                "display_url": "howard.edu",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 74184,
+        "friends_count": 971,
+        "listed_count": 943,
+        "created_at": "Sat Mar 28 01:21:30 +0000 2009",
+        "favourites_count": 9554,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 21209,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27147528/1551471954",
+        "profile_link_color": "0009B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "0009B3",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "07d9ecd6f2487000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ecd6f2487000.json",
+        "place_type": "poi",
+        "name": "Howard University - Cramton Auditorium",
+        "full_name": "Howard University - Cramton Auditorium",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 125,
+      "favorite_count": 580,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Apr 16 02:23:43 +0000 2019",
+      "id": 1117976835222986800,
+      "id_str": "1117976835222986753",
+      "text": "At the #Homecoming screening at Netflix and Ty Hunter and Ashley Everett are here and I genuinely wish i had a poster for them to sign.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              7,
+              18
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 6277502,
+        "id_str": "6277502",
+        "name": "Matt Donnelly",
+        "screen_name": "MattDonnelly",
+        "location": "ÜT: 34.099714,-118.301643",
+        "description": "Senior Film Writer @Variety. Opinions / body issues are my own.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5476,
+        "friends_count": 4825,
+        "listed_count": 150,
+        "created_at": "Thu May 24 02:54:17 +0000 2007",
+        "favourites_count": 2649,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 11474,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "DADBD7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1041524926769913856/VBh5Ur_B_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041524926769913856/VBh5Ur_B_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 73,
+      "favorite_count": 422,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Apr 16 21:43:53 +0000 2019",
+      "id": 1118268800044920800,
+      "id_str": "1118268800044920832",
+      "text": "#Homecoming is coming to Netflix TONIGHT! \n\n#Beyonce \n\nhttps://t.co/ymoepWxuq7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "text": "Beyonce",
+            "indices": [
+              44,
+              52
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ymoepWxuq7",
+            "expanded_url": "https://netflixlife.com/2019/04/16/homecoming-a-film-by-beyonce-netflix-tonight/",
+            "display_url": "netflixlife.com/2019/04/16/hom…",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2740939937,
+        "id_str": "2740939937",
+        "name": "Netflix Life",
+        "screen_name": "NetflixLifee",
+        "location": "United States",
+        "description": "Official Twitter account for Netflix fan site. Find us on Facebook: https://t.co/V8Li5Ic6t8",
+        "url": "https://t.co/zN2sijEIO2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zN2sijEIO2",
+                "expanded_url": "http://netflixlife.com/",
+                "display_url": "netflixlife.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/V8Li5Ic6t8",
+                "expanded_url": "http://bit.ly/2eNjPcg",
+                "display_url": "bit.ly/2eNjPcg",
+                "indices": [
+                  68,
+                  91
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 80073,
+        "friends_count": 1162,
+        "listed_count": 388,
+        "created_at": "Tue Aug 12 16:35:16 +0000 2014",
+        "favourites_count": 4397,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 27834,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/505477020331941888/hodbMfRP_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/505477020331941888/hodbMfRP_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2740939937/1546320303",
+        "profile_link_color": "BE272C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 80,
+      "favorite_count": 229,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Apr 16 06:40:39 +0000 2019",
+      "id": 1118041495322468400,
+      "id_str": "1118041495322468352",
+      "text": "The hive is buzzing. #Homecoming https://t.co/pPeVRTBBL7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              21,
+              32
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1118041447985377300,
+            "id_str": "1118041447985377280",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118041447985377280/pu/img/R6iX_rrCJTtwEOlR.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118041447985377280/pu/img/R6iX_rrCJTtwEOlR.jpg",
+            "url": "https://t.co/pPeVRTBBL7",
+            "display_url": "pic.twitter.com/pPeVRTBBL7",
+            "expanded_url": "https://twitter.com/DinoRay/status/1118041495322468352/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1118041447985377300,
+            "id_str": "1118041447985377280",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118041447985377280/pu/img/R6iX_rrCJTtwEOlR.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118041447985377280/pu/img/R6iX_rrCJTtwEOlR.jpg",
+            "url": "https://t.co/pPeVRTBBL7",
+            "display_url": "pic.twitter.com/pPeVRTBBL7",
+            "expanded_url": "https://twitter.com/DinoRay/status/1118041495322468352/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 720,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 8733,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1118041447985377280/pu/pl/v6ISylWut0XmhU49.m3u8?tag=8"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1118041447985377280/pu/vid/360x640/_lWBkgKKOtXzaLmG.mp4?tag=8"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1118041447985377280/pu/vid/320x568/-merHWFVrlfY1AAI.mp4?tag=8"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1118041447985377280/pu/vid/720x1280/287GuPhb9xby1Wsi.mp4?tag=8"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 21681214,
+        "id_str": "21681214",
+        "name": "Dino-Ray Ramos",
+        "screen_name": "DinoRay",
+        "location": "I live in L.A. now.",
+        "description": "@Deadline editor. aZiAn. Aspiring InstaTHOT. Avid runner. Avid burrito eater. These are my own opinions. Email me if you want: dinoramos@deadline.com",
+        "url": "https://t.co/AQjf9NNd4h",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/AQjf9NNd4h",
+                "expanded_url": "https://www.instagram.com/dinoray/",
+                "display_url": "instagram.com/dinoray/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2338,
+        "friends_count": 1603,
+        "listed_count": 90,
+        "created_at": "Mon Feb 23 19:06:55 +0000 2009",
+        "favourites_count": 16116,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 21548,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/962879131930144768/15pAsZ7a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/962879131930144768/15pAsZ7a_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21681214/1552956863",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 97,
+      "favorite_count": 392,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Apr 16 21:15:28 +0000 2019",
+      "id": 1118261648958140400,
+      "id_str": "1118261648958140417",
+      "text": "#Homecoming 👑🐝💛💖 #Beychella #Beyonce #Coachella #Netflix\nhttps://t.co/Rwt2J1qPR6 https://t.co/deM0XNGwhx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "text": "Beychella",
+            "indices": [
+              17,
+              27
+            ]
+          },
+          {
+            "text": "Beyonce",
+            "indices": [
+              28,
+              36
+            ]
+          },
+          {
+            "text": "Coachella",
+            "indices": [
+              37,
+              47
+            ]
+          },
+          {
+            "text": "Netflix",
+            "indices": [
+              48,
+              56
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Rwt2J1qPR6",
+            "expanded_url": "https://www.instagram.com/p/BwVEW_Anqqp/",
+            "display_url": "instagram.com/p/BwVEW_Anqqp/",
+            "indices": [
+              57,
+              80
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1118261511619846100,
+            "id_str": "1118261511619846146",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4Tc64YXoAIyX8N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4Tc64YXoAIyX8N.jpg",
+            "url": "https://t.co/deM0XNGwhx",
+            "display_url": "pic.twitter.com/deM0XNGwhx",
+            "expanded_url": "https://twitter.com/Hayden_Williams/status/1118261648958140417/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1743,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1021,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 579,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1118261511619846100,
+            "id_str": "1118261511619846146",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4Tc64YXoAIyX8N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4Tc64YXoAIyX8N.jpg",
+            "url": "https://t.co/deM0XNGwhx",
+            "display_url": "pic.twitter.com/deM0XNGwhx",
+            "expanded_url": "https://twitter.com/Hayden_Williams/status/1118261648958140417/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1743,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1021,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 579,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "popular"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 55022800,
+        "id_str": "55022800",
+        "name": "Hayden Williams",
+        "screen_name": "Hayden_Williams",
+        "location": "London, England",
+        "description": "British Fashion Illustrator & Designer.\n\nhttps://t.co/rdqpeEFaQZ\n\nhttps://t.co/YsjnXlHFCi",
+        "url": "https://t.co/D9cXIrzcDU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/D9cXIrzcDU",
+                "expanded_url": "http://haydenwilliamsofficial.com",
+                "display_url": "haydenwilliamsofficial.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/rdqpeEFaQZ",
+                "expanded_url": "https://www.instagram.com/hayden_williams/",
+                "display_url": "instagram.com/hayden_william…",
+                "indices": [
+                  41,
+                  64
+                ]
+              },
+              {
+                "url": "https://t.co/YsjnXlHFCi",
+                "expanded_url": "https://www.facebook.com/haydenwilliamsillustrations/",
+                "display_url": "facebook.com/haydenwilliams…",
+                "indices": [
+                  66,
+                  89
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 27246,
+        "friends_count": 263,
+        "listed_count": 318,
+        "created_at": "Wed Jul 08 20:44:44 +0000 2009",
+        "favourites_count": 1008,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 63843,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109176254182371331/nmvsNj_c_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109176254182371331/nmvsNj_c_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/55022800/1513914687",
+        "profile_link_color": "8D919B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 151,
+      "favorite_count": 477,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Apr 16 20:47:28 +0000 2019",
+      "id": 1118254605878595600,
+      "id_str": "1118254605878595592",
+      "text": "Shoutout to people taking naps later so they’ll be awake for #Homecoming.🐝",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              61,
+              72
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 32238490,
+        "id_str": "32238490",
+        "name": "🆃🆁🆄🅳🆈",
+        "screen_name": "thetrudz",
+        "location": "thetrudz.com 🌴🌞🍊🐊🌺🌊",
+        "description": "creator: @gradientlair @cinemacked @driftsojourn @driftdiscern | photographer • writer • womanist | https://t.co/D2XIt2rrRu | https://t.co/Tm7kmB4jJO",
+        "url": "https://t.co/3hGqEvAXmw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3hGqEvAXmw",
+                "expanded_url": "http://patreon.com/thetrudz",
+                "display_url": "patreon.com/thetrudz",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/D2XIt2rrRu",
+                "expanded_url": "http://instagram.com/thetrudz",
+                "display_url": "instagram.com/thetrudz",
+                "indices": [
+                  100,
+                  123
+                ]
+              },
+              {
+                "url": "https://t.co/Tm7kmB4jJO",
+                "expanded_url": "http://cash.me/$thetrudz",
+                "display_url": "cash.me/$thetrudz",
+                "indices": [
+                  126,
+                  149
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 69002,
+        "friends_count": 1811,
+        "listed_count": 1550,
+        "created_at": "Fri Apr 17 01:18:41 +0000 2009",
+        "favourites_count": 29088,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 672367,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "340A4D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1024270226081411073/veg69hhs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024270226081411073/veg69hhs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/32238490/1537411601",
+        "profile_link_color": "01A89E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "D6D6D6",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 35,
+      "favorite_count": 165,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 17 01:33:55 +0000 2019",
+      "id": 1118326691531673600,
+      "id_str": "1118326691531673600",
+      "text": "#Homecoming drops tonight at midnight PST tho. Use a gif to describe how you’re gonna be walking in to work tomorro… https://t.co/RqDQHUGTZi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RqDQHUGTZi",
+            "expanded_url": "https://twitter.com/i/web/status/1118326691531673600",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27384718,
+        "id_str": "27384718",
+        "name": "Matthew A. Cherry 🏁",
+        "screen_name": "MatthewACherry",
+        "location": "Los Angeles, CA",
+        "description": "Director | NFL Alum | @Monkeypaw Creative Executive | Credits: The Last Fall, 9 Rides, Hair Love, The Last OG, The Red Line, Whiskey Cavalier, BlackKklansman",
+        "url": "https://t.co/ZS1UnAGq5J",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZS1UnAGq5J",
+                "expanded_url": "http://www.matthewacherry.com/",
+                "display_url": "matthewacherry.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 127848,
+        "friends_count": 10180,
+        "listed_count": 2854,
+        "created_at": "Sun Mar 29 05:09:42 +0000 2009",
+        "favourites_count": 89801,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 174126,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1117927583855681536/Xr8revuG_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117927583855681536/Xr8revuG_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27384718/1553732614",
+        "profile_link_color": "57A8FF",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F0F0F0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 219,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Apr 16 23:05:00 +0000 2019",
+      "id": 1118289214800400400,
+      "id_str": "1118289214800400385",
+      "text": "Here are 5 things we want to see from Beyoncé's #Homecoming special! #BillboardNews https://t.co/ByzhWoMBHt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              48,
+              59
+            ]
+          },
+          {
+            "text": "BillboardNews",
+            "indices": [
+              69,
+              83
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1118262892871053300,
+            "id_str": "1118262892871053313",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4TvJgJXsAEya-0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4TvJgJXsAEya-0.jpg",
+            "url": "https://t.co/ByzhWoMBHt",
+            "display_url": "pic.twitter.com/ByzhWoMBHt",
+            "expanded_url": "https://twitter.com/billboard/status/1118289214800400385/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1118262892871053300,
+            "id_str": "1118262892871053313",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/D4TvJgJXsAEya-0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D4TvJgJXsAEya-0.jpg",
+            "url": "https://t.co/ByzhWoMBHt",
+            "display_url": "pic.twitter.com/ByzhWoMBHt",
+            "expanded_url": "https://twitter.com/billboard/status/1118289214800400385/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 640,
+                "h": 360,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 83417,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1118262892871053313/vid/640x360/QHQoUU7scjb7tX2K.mp4?tag=11"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1118262892871053313/vid/320x180/7dzi04n7t0pdB2kd.mp4?tag=11"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1118262892871053313/pl/Hqqe3bwbSXMl88Cl.m3u8?tag=11"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1118262892871053313/vid/1280x720/z3f6GG8g102Xaggz.mp4?tag=11"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "title": "Beyonce's Homecoming: Things We Want to See From Her Netflix Special",
+              "description": "The documentary will be available on Netflix this Wednesday (April 17).",
+              "embeddable": true,
+              "monetizable": false
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 9695312,
+        "id_str": "9695312",
+        "name": "billboard",
+        "screen_name": "billboard",
+        "location": "Worldwide!",
+        "description": "music • charts • news • more | @billboardcharts • @billboarddance • @billboardhiphop • @billboardlatin • @billboardpride • @hot100fest",
+        "url": "https://t.co/3IA5YKU30t",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3IA5YKU30t",
+                "expanded_url": "http://billboard.com",
+                "display_url": "billboard.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7239119,
+        "friends_count": 3157,
+        "listed_count": 25085,
+        "created_at": "Thu Oct 25 21:33:23 +0000 2007",
+        "favourites_count": 6094,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 212309,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1003669695688560640/QB0md4v8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003669695688560640/QB0md4v8_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/9695312/1554993164",
+        "profile_link_color": "1EB0E8",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CCCCCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 57,
+      "favorite_count": 383,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 17 00:35:57 +0000 2019",
+      "id": 1118312106070302700,
+      "id_str": "1118312106070302720",
+      "text": "The Howard University Royal Court joins us for an exclusive Howard screening of of #Homecoming, a film by  Beyoncé.… https://t.co/UZJmVxQYH7",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              83,
+              94
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UZJmVxQYH7",
+            "expanded_url": "https://twitter.com/i/web/status/1118312106070302720",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27147528,
+        "id_str": "27147528",
+        "name": "Howard University",
+        "screen_name": "HowardU",
+        "location": "Washington, DC",
+        "description": "Howard University is a research intensive, culturally diverse, historically black university founded in 1867 #HowardU • #HUBison • @HowardUNews • @HowardUAlumni",
+        "url": "https://t.co/LNzRUVrNO3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LNzRUVrNO3",
+                "expanded_url": "http://www.howard.edu",
+                "display_url": "howard.edu",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 74184,
+        "friends_count": 971,
+        "listed_count": 943,
+        "created_at": "Sat Mar 28 01:21:30 +0000 2009",
+        "favourites_count": 9554,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 21209,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27147528/1551471954",
+        "profile_link_color": "0009B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "0009B3",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 56,
+      "favorite_count": 222,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Apr 17 00:33:46 +0000 2019",
+      "id": 1118311556507492400,
+      "id_str": "1118311556507492353",
+      "text": "Our students, Beyoncé fans, known as the Hive 🐝, have been lined up for hours in anticipation of her film,… https://t.co/zoiPMeyMrc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zoiPMeyMrc",
+            "expanded_url": "https://twitter.com/i/web/status/1118311556507492353",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 27147528,
+        "id_str": "27147528",
+        "name": "Howard University",
+        "screen_name": "HowardU",
+        "location": "Washington, DC",
+        "description": "Howard University is a research intensive, culturally diverse, historically black university founded in 1867 #HowardU • #HUBison • @HowardUNews • @HowardUAlumni",
+        "url": "https://t.co/LNzRUVrNO3",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/LNzRUVrNO3",
+                "expanded_url": "http://www.howard.edu",
+                "display_url": "howard.edu",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 74184,
+        "friends_count": 971,
+        "listed_count": 943,
+        "created_at": "Sat Mar 28 01:21:30 +0000 2009",
+        "favourites_count": 9554,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 21209,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/969359644429897733/A5L78s9M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/27147528/1551471954",
+        "profile_link_color": "0009B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "0009B3",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "07d9ecd6f2487000",
+        "url": "https://api.twitter.com/1.1/geo/id/07d9ecd6f2487000.json",
+        "place_type": "poi",
+        "name": "Howard University - Cramton Auditorium",
+        "full_name": "Howard University - Cramton Auditorium",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ],
+              [
+                -77.02100503440192,
+                38.92451443449656
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 63,
+      "favorite_count": 229,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Apr 16 09:32:16 +0000 2019",
+      "id": 1118084684313972700,
+      "id_str": "1118084684313972736",
+      "text": "We're getting excited about the release of #Homecoming tomorrow on @netflix and are taking a look at Queen Bey hers… https://t.co/rCUOQNfBBO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Homecoming",
+            "indices": [
+              43,
+              54
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "netflix",
+            "name": "Netflix US",
+            "id": 16573941,
+            "id_str": "16573941",
+            "indices": [
+              67,
+              75
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/rCUOQNfBBO",
+            "expanded_url": "https://twitter.com/i/web/status/1118084684313972736",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "popular",
+        "iso_language_code": "en"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 136551913,
+        "id_str": "136551913",
+        "name": "Tate Publishing",
+        "screen_name": "Tate_Publishing",
+        "location": "London",
+        "description": "Publishing for over 100 years. All our profits go towards supporting the work of Tate art galleries, UK.",
+        "url": "https://t.co/3uRrLyOFhD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3uRrLyOFhD",
+                "expanded_url": "http://shop.tate.org.uk/books/view-all-books",
+                "display_url": "shop.tate.org.uk/books/view-all…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 8584,
+        "friends_count": 1357,
+        "listed_count": 209,
+        "created_at": "Sat Apr 24 07:40:08 +0000 2010",
+        "favourites_count": 1299,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 2370,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/795661917859774465/Kj-9fm7Z_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/795661917859774465/Kj-9fm7Z_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/136551913/1525081798",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 47,
+      "favorite_count": 125,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.05,
+    "max_id": 0,
+    "max_id_str": "0",
+    "next_results": "?max_id=1117976835222986752&q=%23Homecoming-filter%3Aretweets-filter%3Areplies&include_entities=1&result_type=popular",
+    "query": "%23Homecoming-filter%3Aretweets-filter%3Areplies",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
