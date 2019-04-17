@@ -3,7 +3,7 @@ var ctx = [];
 
 $(document).ready ( function() {
 	$.ajax({
-		url: "http://127.0.0.1:8080/api/trend/onLoad",
+		url: "https://live-test-tweet.herokuapp.com/api/trend/onLoad",
 		success: function (result) {
 			var locat = result[0].locations[0].name;
 			var data = [];

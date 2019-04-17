@@ -3,7 +3,7 @@ var chartsUp = [];
 
 function getChartData(locat) {
     $.ajax({
-		url: "http://127.0.0.1:8080/api/trend/" + locat,
+		url: "https://live-test-tweet.herokuapp.com/api/trend/" + locat,
 		success: function (result) {
 			var locat = result[0].locations[0].name;
 			var data = [];

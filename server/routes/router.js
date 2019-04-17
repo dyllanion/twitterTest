@@ -92,7 +92,7 @@ router.post('/', function (req, res, next) {
 /* This function gets the IP of the user, queries for the closest trend location to their given IP, and gets the trend
 	data from the Twitter API. */
 router.get('/trend/onLoad', function (req, res, next) {
-	http.get('http://api.ipstack.com/' + /*(req.headers['x-forwarded-for'] || '').split(',')[0] || req.connection.remoteAddress)*/"174.64.97.199" + '?access_key=f8fce154a9bb6ebe770d71b64d234cdf', (resp) => {
+	http.get('http://api.ipstack.com/' + ((req.headers['x-forwarded-for'] || '').split(',')[0] || req.connection.remoteAddress) + '?access_key=f8fce154a9bb6ebe770d71b64d234cdf', (resp) => {
 		let data = '';
 		resp.on('data', (chunk) => {
 			data += chunk;
